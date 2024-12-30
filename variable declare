@@ -1,0 +1,9 @@
+i = 2
+
+j = 4
+
+s = 6
+
+print(i)
+print(j)
+print(s)
