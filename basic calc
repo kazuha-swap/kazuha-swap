@@ -1,0 +1,17 @@
+n1 = int(input("enter the first number: "));
+operation = input("enter the operation (+,-,*,/):")
+n2 = int(input("enter the second number: "));
+if operation == "+":
+   result = n1 + n2
+elif operation == "-":
+   result = n1 - n2
+elif operation == "*":
+   result = n1 * n2
+elif operation == "/":
+    if n2 != 0:
+       result = n1 / n2
+    else:
+          result = "error division by zero"
+else:
+     result = "invalid operation!"
+print("the result is", result)
