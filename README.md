@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some personal projects<br>🤝 up for assistance in projects/apps work<br>🌱 I’m currently learning AI/ML<br>
+🔭 I’m currently working on some personal projects<br>🤝 up for assistance in projects/apps work<br>🌱 I’m currently learning AI/ML<br> btw this is my old account (the new one's access isn't available anymore)<br> 
 
 
 ## 🌐 Socials:
